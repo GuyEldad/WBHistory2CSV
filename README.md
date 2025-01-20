@@ -22,3 +22,7 @@
 
 ## Contact
 For questions or feedback, please contact me via https://www.linkedin.com/in/guy-eldad/
+
+
+Copyright
+© 2025 Guy Eldad. All rights reserved.
