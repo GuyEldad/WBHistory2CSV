@@ -6,7 +6,9 @@
 - Parses browsing and download history and converts timestamps to UTC.
 - Exports data to CSV format for easy analysis.
 - Supports multiple browsers, including **Chrome, Firefox, Edge, Brave, and Opera**.
+- Provides an easy-to-use **graphical user interface (GUI)** for navigation and data export.
 - Available as an **executable file for Windows (EXE)** and an **ELF file for Linux**, ensuring a standalone experience with no additional dependencies required.
+
 
 ## Installation and Usage
 ### Windows:
