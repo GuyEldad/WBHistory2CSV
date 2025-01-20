@@ -21,4 +21,4 @@
 
 
 ## Contact
-For questions or feedback, please contact me via https://www.linkedin.com/in/guy-eldad/
+For questions or feedback, please contact me via [https://www.linkedin.com/in/guy- ](https://www.linkedin.com/in/guy-eldad/)
