@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="WBHistory2CSV.jpg" alt="WBHistory2CSV Banner" width="600">
+  <img src="WBHistory2CSV.jpg" alt="WBHistory2CSV Banner" width="700">
 </p>
 
 # WBHistory2CSV
