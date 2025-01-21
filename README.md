@@ -1,4 +1,6 @@
-![WBHistory2CSV Banner](WBHistory2CSV.jpg)
+<p align="center">
+  <img src="WBHistory2CSV.jpg" alt="WBHistory2CSV Banner" width="800">
+</p>
 
 # WBHistory2CSV
 
