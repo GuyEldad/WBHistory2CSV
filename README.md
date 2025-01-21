@@ -1,3 +1,5 @@
+![WBHistory2CSV Banner](WBHistory2CSV.jpg)
+
 # WBHistory2CSV
 
 **WBHistory2CSV** is a tool designed to parse browsing and download history from multiple browsers, convert timestamps to UTC, and export data to CSV format for easy analysis.
