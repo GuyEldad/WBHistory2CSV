@@ -7,7 +7,7 @@
 **WBHistory2CSV** is a tool designed to parse browsing and download history from multiple browsers, convert timestamps to UTC, and export data to CSV format for easy analysis.
 
 ## Features
-- Parses browsing and download history and converts timestamps to UTC.
+- Parses browsing and download history and converts timestamps (Epoch, Unix, WebKit) to UTC.
 - Exports data to CSV format for easy analysis.
 - Supports multiple browsers, including **Chrome, Firefox, Edge, Brave, and Opera**.
 - Provides an easy-to-use **graphical user interface (GUI)** for navigation and data export.
