@@ -17,21 +17,22 @@
 
 Get the pre-built executable files for your operating system from the links below:
 
-- **Windows**: [WBHistory2CSV.zip](WBHistory2CSV.zip)  
-  - Download and extract the ZIP archive to access `WBHistory2CSV.exe`.
+- **Windows**: [WBHistory2CSV.zip](WBHistory2CSV.zip)
 
-- **Linux**: [WBHistory2CSV.tar.gz](WBHistory2CSV.tar.gz)  
-  - Download and extract the TAR archive to access the Linux ELF binary.
+- **Linux**: [WBHistory2CSV.tar.gz](WBHistory2CSV.tar.gz)
 
 
 ## Installation and Usage
 
 ### Windows:
-- Download the `WBHistory2CSV.exe` file.
+- Extract the ZIP file.
 - Run the executable without any additional dependencies.
 
 ### Linux:
-- Download the `WBHistory2CSV` ELF file.
+- Extract the archive using:
+  ```bash
+  tar -xvzf WBHistory2CSV.tar.gz
+ 
 - Run the following command to grant execution permission:
   ```bash
   chmod +x WBHistory2CSV
