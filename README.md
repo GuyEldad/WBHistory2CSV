@@ -13,8 +13,19 @@
 - Provides an easy-to-use **graphical user interface (GUI)** for navigation and data export.
 - Available as an **executable file for Windows (EXE)** and an **ELF file for Linux**, ensuring a standalone experience with no additional dependencies required.
 
+## Download
+
+Get the pre-built executable files for your operating system from the links below:
+
+- **Windows**: [WBHistory2CSV.zip](WBHistory2CSV.zip)  
+  - Download and extract the ZIP archive to access `WBHistory2CSV.exe`.
+
+- **Linux**: [WBHistory2CSV.tar.gz](WBHistory2CSV.tar.gz)  
+  - Download and extract the TAR archive to access the Linux ELF binary.
+
 
 ## Installation and Usage
+
 ### Windows:
 - Download the `WBHistory2CSV.exe` file.
 - Run the executable without any additional dependencies.
@@ -37,6 +48,7 @@ If you encounter warnings, please consider the following:
 - Temporarily disabling your antivirus software.
 
 ## Contact
+
 For questions or feedback, please contact me via https://www.linkedin.com/in/guy-eldad/
 
 
