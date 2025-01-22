@@ -37,7 +37,6 @@ Get the pre-built executable files for your operating system from the links belo
   ```bash
   chmod +x WBHistory2CSV
 
-
 ## Important Notice
 
 Some antivirus software may flag the executable version of this tool as a false positive. This is due to the way the tool interacts with system files and browser history databases. The tool is built using **Python** and **PyInstaller**, which can sometimes trigger heuristic detections.
