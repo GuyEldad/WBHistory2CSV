@@ -37,6 +37,11 @@ Get the pre-built executable files for your operating system from the links belo
   ```bash
   chmod +x WBHistory2CSV
 
+- Once the tool is running, select the appropriate browser button (Chrome, Firefox, Edge, Brave, Opera).
+- Choose the corresponding history file when prompted.
+- Click the **"!"** button to view default history file locations if needed.
+- The tool will parse the data and export it as a CSV file for easy analysis.
+
 ## Important Notice
 
 Some antivirus software may flag the executable version of this tool as a false positive. This is due to the way the tool interacts with system files and browser history databases. The tool is built using **Python** and **PyInstaller**, which can sometimes trigger heuristic detections.
