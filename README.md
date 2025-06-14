@@ -51,14 +51,6 @@
   WBHistory2CSV.exe -f "C:\Users\Username\AppData\Local\Google\Chrome\User Data\Default\History" -o "C:\Users\Username\Desktop" -browser chrome
   ```
   
-- Optional Arguments:
-  ```
-  -h            Show help message  
-  -f            Path to browser history SQLite file  
-  -o            Output folder for all CSVs  
-  -browser      {chrome,firefox,edge,brave,opera} - Type of browser history file
-  ```
-  
 ### Linux CLI Version
 - Extract the `.7z` archive using:
   ```bash
@@ -78,6 +70,14 @@
 
   ```bash
   ./WBHistory2CSV -f ~/path/to/History -o ~/Desktop -browser chrome
+  ```
+  
+  - Optional Arguments:
+  ```
+  -h            Show help message  
+  -f            Path to browser history SQLite file  
+  -o            Output folder for all CSVs  
+  -browser      {chrome,firefox,edge,brave,opera} - Type of browser history file
   ```
 
 ## Important Notice
