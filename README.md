@@ -52,12 +52,12 @@
   ```
   
 - Optional Arguments:
-```
--h            Show help message  
--f            Path to browser history SQLite file  
--o            Output folder for all CSVs  
--browser      {chrome,firefox,edge,brave,opera} - Type of browser history file
-```
+  ```
+  -h            Show help message  
+  -f            Path to browser history SQLite file  
+  -o            Output folder for all CSVs  
+  -browser      {chrome,firefox,edge,brave,opera} - Type of browser history file
+  ```
 
 ```
 
