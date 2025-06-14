@@ -58,28 +58,27 @@
   -o            Output folder for all CSVs  
   -browser      {chrome,firefox,edge,brave,opera} - Type of browser history file
   ```
-
-```
-
--h            Show help message  
--f            Path to browser history SQLite file  
--o            Output folder for all CSVs  
--browser      {chrome,firefox,edge,brave,opera} - Type of browser history file  
-
-
-### Linux:
-- Extract the archive using:
+  
+### Linux CLI Version
+- Extract the `.7z` archive using:
   ```bash
-  tar -xvzf WBHistory2CSV.tar.gz
- 
-- Run the following command to grant execution permission:
+  7z x WBHistory2CSV_CLI_Linux.7z
+  ```
+- Make the binary executable:
   ```bash
   chmod +x WBHistory2CSV
+  ```
+- Run the tool using the following syntax:
 
-- Once the tool is running, select the appropriate browser button (Chrome, Firefox, Edge, Brave, Opera).
-- Choose the corresponding history file when prompted.
-- Click the **"!"** button to view default history file locations if needed.
-- The tool will parse the data and export it as a CSV file for easy analysis.
+  ```bash
+  ./WBHistory2CSV -f <input_history_file> -o <output_folder> -browser <chrome|firefox|edge|brave|opera>
+  ```
+
+- 📌 **Example**:
+
+  ```bash
+  ./WBHistory2CSV -f ~/path/to/History -o ~/Desktop -browser chrome
+  ```
 
 ## Important Notice
 
