@@ -33,7 +33,7 @@
   - Select the appropriate browser button: **Chrome**, **Firefox**, **Edge**, **Brave**, or **Opera**.
   - When prompted, choose the corresponding browser history file.
   - Click the **"Show Browser Paths"** button to view default browser history file locations.
-- The tool will parse the data and export it as a `.csv` file for easy analysis.
+- The tool will parse the data and export it as a `.csv` files for easy analysis.
 
 ---
 
