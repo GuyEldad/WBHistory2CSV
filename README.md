@@ -51,6 +51,8 @@
   WBHistory2CSV.exe -f "C:\Users\Username\AppData\Local\Google\Chrome\User Data\Default\History" -o "C:\Users\Username\Desktop" -browser chrome
   ```
   
+---
+  
 ### Linux CLI Version
 - Extract the `.7z` archive using:
   ```bash
