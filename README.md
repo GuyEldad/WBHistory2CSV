@@ -4,22 +4,24 @@
 
 # WBHistory2CSV
 
-**WBHistory2CSV** is a tool designed to parse browsing and download history from multiple browsers, convert timestamps to UTC, and export data to CSV format for easy analysis.
+**WBHistory2CSV** is a forensic tool designed to parse web browsing and download history, convert timestamps to UTC, and export the data to CSV format for efficient analysis and investigation.
 
 ## Features
 - Parses browsing and download history and converts timestamps (Epoch, Unix, WebKit) to UTC.
 - Exports data to CSV format for easy analysis.
-- Supports multiple browsers, including **Chrome, Firefox, Edge, Brave, and Opera**.
-- Provides an easy-to-use **graphical user interface (GUI)** for navigation and data export.
+- Supports multiple browsers: **Chrome, Firefox, Edge, Brave, and Opera**.
+- Provides both:
+  - A **graphical user interface (GUI)** for intuitive navigation and export.
+  - A **command-line interface (CLI)** for automation and scripting use.
 - Available as an **executable file for Windows (EXE)** and an **ELF file for Linux**, ensuring a standalone experience with no additional dependencies required.
 
 ## Download
 
-Get the pre-built executable files for your operating system from the links below:
-
-- **Windows**: [WBHistory2CSV.zip](WBHistory2CSV.zip)
-
-- **Linux**: [WBHistory2CSV.tar.gz](WBHistory2CSV.tar.gz)
+| Version | Platform | Interface | Download |
+|--------|----------|-----------|----------|
+| GUI    | Windows  | GUI       | [WBHistory2CSV_GUI_Windows.7z](./WBHistory2CSV_GUI_Windows.7z) |
+| CLI    | Windows  | CLI       | [WBHistory2CSV_CLI_Windows.7z](./WBHistory2CSV_CLI_Windows.7z) |
+| CLI    | Linux    | CLI       | [WBHistory2CSV_CLI_Linux.7z](./WBHistory2CSV_CLI_Linux.7z) |
 
 
 ## Installation and Usage
