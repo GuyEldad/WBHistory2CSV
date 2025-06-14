@@ -42,12 +42,14 @@
 - Open **Command Prompt** in the folder where the executable is located.
 - Use the following syntax:
 
-``bash
+```bash
 WBHistory2CSV.exe -f <input_history_file> -o <output_folder> -browser <chrome|firefox|edge|brave|opera>
+```
 
 Example
-``bash
+```bash
 WBHistory2CSV.exe -f "C:\Users\Username\AppData\Local\Google\Chrome\User Data\Default\History" -o "C:\Users\Username\Desktop" -browser chrome
+```
 
 -h            Show help message  
 -f            Path to browser history SQLite file  
