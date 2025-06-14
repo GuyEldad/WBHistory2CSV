@@ -17,11 +17,11 @@
 
 ## Download
 
-| Version | Platform | Interface | Download |
-|--------|----------|-----------|----------|
-| GUI    | Windows  | GUI       | [WBHistory2CSV_GUI_Windows.7z](./WBHistory2CSV_GUI_Windows.7z) |
-| CLI    | Windows  | CLI       | [WBHistory2CSV_CLI_Windows.7z](./WBHistory2CSV_CLI_Windows.7z) |
-| CLI    | Linux    | CLI       | [WBHistory2CSV_CLI_Linux.7z](./WBHistory2CSV_CLI_Linux.7z) |
+| Platform | Interface | Download |
+|----------|-----------|----------|
+| Windows  | GUI       | [WBHistory2CSV_GUI_Windows.7z](./WBHistory2CSV_GUI_Windows.7z) |
+| Windows  | CLI       | [WBHistory2CSV_CLI_Windows.7z](./WBHistory2CSV_CLI_Windows.7z) |
+| Linux    | CLI       | [WBHistory2CSV_CLI_Linux.7z](./WBHistory2CSV_CLI_Linux.7z) |
 
 
 ## Installation and Usage
