@@ -45,7 +45,7 @@
   ```bash
   WBHistory2CSV.exe -f <input_history_file> -o <output_folder> -browser <chrome|firefox|edge|brave|opera>
   ```
-- Example
+- **Example**
 
   ```bash
   WBHistory2CSV.exe -f "C:\Users\Username\AppData\Local\Google\Chrome\User Data\Default\History" -o "C:\Users\Username\Desktop" -browser chrome
@@ -66,13 +66,13 @@
   ./WBHistory2CSV -f <input_history_file> -o <output_folder> -browser <chrome|firefox|edge|brave|opera>
   ```
 
-- 📌 **Example**:
+- **Example**
 
   ```bash
   ./WBHistory2CSV -f ~/path/to/History -o ~/Desktop -browser chrome
   ```
   
-  - Optional Arguments:
+  - **Optional Arguments**
   ```
   -h            Show help message  
   -f            Path to browser history SQLite file  
