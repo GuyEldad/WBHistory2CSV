@@ -26,7 +26,7 @@
 
 ## Installation and Usage
 
-### Windows:
+### Windows GUI Version
 - Extract the .7z archive.
 - Run the executable without any additional dependencies.
 - Once the tool launches:
@@ -37,7 +37,7 @@
 
 ---
 
-### 🔹 Windows CLI Version
+### Windows CLI Version
 - Extract the `.7z` archive.
 - Open **Command Prompt** in the folder where the executable is located.
 - Use the following syntax:
