@@ -28,11 +28,11 @@
 
 ### Windows GUI Version
 - Extract the .7z archive.
-- Run the executable without any additional dependencies.
+- Click the executable to launch the tool — no installation or external dependencies required.
 - Once the tool launches:
   - Select the appropriate browser button: **Chrome**, **Firefox**, **Edge**, **Brave**, or **Opera**.
   - When prompted, choose the corresponding browser history file.
-  - You can click the **"Show Browser Paths"** button to view default file locations.
+  - Click the "Show Browser Paths" button to view default browser history file locations.
 - The tool will parse the data and export it as a `.csv` file for easy analysis.
 
 ---
