@@ -27,8 +27,33 @@
 ## Installation and Usage
 
 ### Windows:
-- Extract the ZIP file.
+- Extract the .7z archive.
 - Run the executable without any additional dependencies.
+- Once the tool launches:
+  - Select the appropriate browser button: **Chrome**, **Firefox**, **Edge**, **Brave**, or **Opera**.
+  - When prompted, choose the corresponding browser history file.
+  - You can click the **"Show Browser Paths"** button to view default file locations.
+- The tool will parse the data and export it as a `.csv` file for easy analysis.
+
+---
+
+### 🔹 Windows CLI Version
+- Extract the `.7z` archive.
+- Open **Command Prompt** in the folder where the executable is located.
+- Use the following syntax:
+
+``bash
+WBHistory2CSV.exe -f <input_history_file> -o <output_folder> -browser <chrome|firefox|edge|brave|opera>
+
+Example
+``bash
+WBHistory2CSV.exe -f "C:\Users\Username\AppData\Local\Google\Chrome\User Data\Default\History" -o "C:\Users\Username\Desktop" -browser chrome
+
+-h            Show help message  
+-f            Path to browser history SQLite file  
+-o            Output folder for all CSVs  
+-browser      {chrome,firefox,edge,brave,opera} - Type of browser history file  
+
 
 ### Linux:
 - Extract the archive using:
