@@ -43,12 +43,11 @@
 - Use the following syntax:
 
 ```bash
-WBHistory2CSV.exe -f <input_history_file> -o <output_folder> -browser <chrome|firefox|edge|brave|opera>
-```
+  WBHistory2CSV.exe -f <input_history_file> -o <output_folder> -browser <chrome|firefox|edge|brave|opera>
 
-Example
 ```bash
-WBHistory2CSV.exe -f "C:\Users\Username\AppData\Local\Google\Chrome\User Data\Default\History" -o "C:\Users\Username\Desktop" -browser chrome
+  WBHistory2CSV.exe -f "C:\Users\Username\AppData\Local\Google\Chrome\User Data\Default\History" -o "C:\Users\Username\Desktop" -browser chrome
+
 ```
 
 -h            Show help message  
