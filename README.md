@@ -58,7 +58,7 @@
   ```bash
   7z x WBHistory2CSV_CLI_Linux.7z
   ```
-- Make the binary executable:
+- Grant executable permission using::
   ```bash
   chmod +x WBHistory2CSV
   ```
