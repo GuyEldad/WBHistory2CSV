@@ -74,7 +74,8 @@
   ./WBHistory2CSV -f ~/path/to/History -o ~/Desktop -browser chrome
   ```
   
-- **Optional Arguments**
+### 🧾 Optional Arguments (for both Windows & Linux CLI)
+
   ```
   -h            Show help message  
   -f            Path to browser history SQLite file  
