@@ -25,7 +25,7 @@
 
 
 ## Installation and Usage
-
+---
 ### Windows GUI Version
 - Extract the .7z archive.
 - Click the executable to launch the tool — no installation or external dependencies required.
