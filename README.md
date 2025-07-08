@@ -28,7 +28,7 @@
 
 ### Windows GUI Version
 - Extract the .7z archive.
-- Click the executable to launch the tool — no installation or external dependencies required.
+- Click the executable to launch the tool - no installation or external dependencies required.
 - Once the tool launches:
   - Select the appropriate browser button: **Chrome**, **Firefox**, **Edge**, **Brave**, or **Opera**.
   - When prompted, choose the corresponding browser history file.
